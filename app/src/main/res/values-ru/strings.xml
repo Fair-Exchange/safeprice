@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exchange">Биржа</string>
+    <string name="exchange_summary">Выбрать поставщика данных</string>
+    <string name="market">Рынок</string>
+    <string name="market_summary">"Выбрать торговую пару "</string>
+    <string name="frequency">Частота обновления</string>
+    <string name="frequency_summary">Настроить частоту обновления данных</string>
+    <string name="frequency_value">минут (а|ы)</string>
+    <string name="when">Lancer au démarrage</string>
+    <string name="start_at_boot">Запускать приложение при загрузке</string>
+    <string name="sources">Исходный код на GitHub</string>
+    <string name="sources_summary">Вы можете познакомиться с кодом приложения</string>
+    <string name="updating">Обновление…</string>
+    <string name="update">Обновить</string>
+    <string name="settings">Настройки</string>
+    <string name="stop">Закрыть</string>
+</resources>

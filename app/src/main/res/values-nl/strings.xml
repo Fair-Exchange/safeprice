@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exchange">Handelsplatform</string>
+    <string name="market">Markt</string>
+    <string name="start_at_boot">opstarten bij aanzetten apparaat</string>
+    <string name="when">Tijd weergeven sinds laatste update</string>
+    <string name="update">Bijwerken</string>
+    <string name="stop">Stop</string>
+    <string name="updating">Aan het bijwerken</string>
+    <string name="settings">Instellingen</string>
+    <string name="exchange_summary">Waar de gegevens moeten worden opgehaald</string>
+    <string name="frequency">"Update frequentie "</string>
+    <string name="frequency_summary">Stel de frequentie in van de gegevensupdate</string>
+    <string name="market_summary">SafeCoin wordt verhandeld met verschillende waarden. kies er één!</string>
+    <string name="frequency_value">minuten</string>
+    <string name="sources_summary">Omdat opensource belangrijk is om SAFE te blijven!</string>
+    <string name="sources">Broncode op Github</string>
+</resources>

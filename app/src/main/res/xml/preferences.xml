@@ -1,0 +1,43 @@
+<androidx.preference.PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ListPreference
+        app:key="exchange"
+        app:title="@string/exchange"
+        app:summary="@string/exchange_summary"
+        app:defaultValue="SafeTrade"
+        app:entries="@array/exchanges"
+        app:entryValues="@array/exchanges"/>
+
+    <ListPreference
+        app:key="market"
+        app:title="@string/market"
+        app:summary="@string/market_summary"
+        app:defaultValue="safebtc"/>
+
+    <com.h6ah4i.android.preference.NumberPickerPreferenceCompat
+        app:key="frequency"
+        app:title="@string/frequency"
+        app:summary="@string/frequency_summary"
+        app:defaultValue="5"
+        app:nppc_maxValue="60"
+        app:nppc_minValue="1"
+        app:nppc_unitText="@string/frequency_value"
+        app:nppc_wrapSelectorWheel="false"/>
+
+    <SwitchPreference
+        app:key="when"
+        app:title="@string/when"
+        app:defaultValue="false"/>
+
+    <SwitchPreference
+        app:key="start_at_boot"
+        app:title="@string/start_at_boot"
+        app:defaultValue="false"/>
+
+    <Preference
+        app:key="sources"
+        app:title="@string/sources"
+        app:summary="@string/sources_summary"
+        />
+
+</androidx.preference.PreferenceScreen>

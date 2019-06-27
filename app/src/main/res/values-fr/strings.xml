@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exchange">Exchange</string>
+    <string name="exchange_summary">Où récupérer les données</string>
+    <string name="market">Marché</string>
+    <string name="frequency">Fréquence de mise à jour</string>
+    <string name="market_summary">Safecoin est tradé avec différentes devises. Choisissez en une!</string>
+    <string name="frequency_summary">Modifier la fréquence de mise à jour des données</string>
+    <string name="frequency_value">minute(s)</string>
+    <string name="when">Afficher le temps passé depuis la dernière mise à jours</string>
+    <string name="start_at_boot">Lancer au démarrage</string>
+    <string name="sources">Code source sur GitHub</string>
+    <string name="sources_summary">Parce que l\'open source est important pour rester SAFE!</string>
+    <string name="update">Mettre à jours</string>
+    <string name="updating">Mise à jours…</string>
+    <string name="stop">Stop</string>
+    <string name="settings">Paramètres</string>
+</resources>

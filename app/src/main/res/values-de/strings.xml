@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exchange_summary">Quelle der Kursdaten</string>
+    <string name="market">Markt</string>
+    <string name="market_summary">Safecoin wird mit verschiedenen Cryptowährungen gehandelt. Wähle eine!</string>
+    <string name="frequency">Aktualisierungsintervall</string>
+    <string name="frequency_summary">Lege den Intervall zum Aktualisieren der Daten fest</string>
+    <string name="frequency_value">minute(n)</string>
+    <string name="when">Zeige vergangene Zeit seit der letzten Aktualisierung an</string>
+    <string name="start_at_boot">Starte Anwendung beim Gerätestart</string>
+    <string name="sources">Quellcode auf GitHub</string>
+    <string name="sources_summary">Denn ein offener Quellcode ist wichtig um SAFE zu bleiben!</string>
+    <string name="updating">Aktualisiere…</string>
+    <string name="update">Aktualisierung</string>
+    <string name="settings">Einstellungen</string>
+    <string name="stop">Stop</string>
+    <string name="exchange">Handelsplatform</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exchange">Exchange</string>
+    <string name="market">Mercato</string>
+    <string name="start_at_boot">Lancia all\'avvio</string>
+    <string name="when">Mostra il tempo dall\'ultimo aggiornamento della notifica</string>
+    <string name="stop">Esci</string>
+    <string name="update">Aggiorna</string>
+    <string name="updating">Aggiornando i dati…</string>
+    <string name="settings">Impostazioni</string>
+    <string name="frequency">Frequenza di aggiornamento</string>
+    <string name="sources_summary">Perché l\'open source è importante per essere SAFE!</string>
+    <string name="sources">Codice sorgente su GitHub</string>
+    <string name="market_summary">Safecoin è scambiato con diverse valute. Scegline una!</string>
+    <string name="frequency_value">minuto/i</string>
+    <string name="frequency_summary">Imposta la frequenza di aggiornamento dei dati</string>
+    <string name="exchange_summary">Dove acquisire i dati</string>
+</resources>
